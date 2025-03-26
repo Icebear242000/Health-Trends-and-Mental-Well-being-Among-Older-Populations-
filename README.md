@@ -28,3 +28,12 @@ This project explores health trends and mental well-being among older population
 - **Linear Regression:** Predicting health outcomes based on demographic features.  
 - **Gradient Boosted Trees:** Improving accuracy through ensemble learning.  
 
+## Requirements
+- pandas
+- numpy
+- matplotlib
+- seaborn
+- pyspark
+- scikit-learn
+- jupyter
+
